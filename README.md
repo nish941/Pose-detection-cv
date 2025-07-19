@@ -1,8 +1,4 @@
-
-## Human Movement and Pose Recognition using OpenCV
-
-````markdown
-# 🕺 Human Pose Detection & Movement Recognition
+🕺 Human Pose Detection & Movement Recognition
 
 > A real-time pose estimation pipeline using OpenCV and keypoint tracking — built as a self-driven computer vision project during my 5th semester to understand the dynamics of body motion, alignment, and classification.
 
